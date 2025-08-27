@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @shambihamisi
-- 👀 I’m interested in UI/UX Design, Front-end development
-- 🌱 I’m currently learning Software Engineering 
-- 📫 How to reach me Email shambi.hamisi@gmail.com Linked In @Shambi Hamisi
-- ⚡ Fun fact: I'm very enthusiastic about Digital art.
+<h2 align="left">Shambi's GitHub profile</h2>
 
-<!---
-shambihamisi/shambihamisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">
+My name is Shambi and I'm a Software Engineering enthusiast, from Kenya. I’m passionate about <b>UI/UX design</b> and <b>front-end development</b>, currently learning my way through 
+the exciting world of <b>Software Engineering</b>.  
+I enjoy building creative, user-friendly interfaces and I’m also enthusiastic about <b>digital art</b>.
+</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shambihamisi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shambihamisi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/strt.ke/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/shambi-hamisi-772686104/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge" />
+  </a>
+  <a href="mailto:shambi.hamisi@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail badge" />
+  </a>
+</div>
+
+###
