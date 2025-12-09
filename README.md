@@ -3,17 +3,26 @@
 ###
 
 <p align="left">
-My name is Shambi and I'm a Software Engineering enthusiast, from Kenya. I’m passionate about <b>UI/UX design</b> and <b>front-end development</b>, currently learning my way through 
-the exciting world of <b>Software Engineering</b>.  
+My name is Shambi and I'm a Software Engineer, from Kenya. I’m passionate about <b>Front-end Development</b> and <b>UI/UX design</b>.
 I enjoy building creative, user-friendly interfaces and I’m also enthusiastic about <b>digital art</b>.
 </p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-demolab.vercel.app/api?username=shambihamisi&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=shambihamisi&layout=compact&theme=dracula" height="150" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shambihamisi&theme=dracula" 
+    height="150" 
+    alt="language graph" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shambihamisi&theme=dracula" 
+    height="150" 
+    alt="stats graph" 
+  />
 </div>
+
+
 
 
 ###
