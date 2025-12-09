@@ -11,17 +11,10 @@ I enjoy building creative, user-friendly interfaces and I’m also enthusiastic 
 ###
 
 <div align="left">
-  <img 
-    src="https://github-readme-stats-git-masterorg-shambihamisi.vercel.app/api?username=shambihamisi&show_icons=true&count_private=true&theme=dracula" 
-    height="150" 
-    alt="stats graph" 
-  />
-  <img 
-    src="https://github-readme-stats-git-masterorg-shambihamisi.vercel.app/api/top-langs/?username=shambihamisi&layout=compact&langs_count=5&theme=dracula" 
-    height="150" 
-    alt="languages graph" 
-  />
+  <img src="https://github-readme-stats-demolab.vercel.app/api?username=shambihamisi&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=shambihamisi&layout=compact&theme=dracula" height="150" />
 </div>
+
 
 ###
 
